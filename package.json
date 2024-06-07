@@ -9,8 +9,8 @@
     "mongoose": "^8.4.1",
     "node-fetch": "^3.3.2"
   },
-  "scripts" : {
-    "build" : "npx tsc",
+  "scripts": {
+    "build": "npx tsc",
     "start": "yarn build && node dist/app.js"
   }
 }
